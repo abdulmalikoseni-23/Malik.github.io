@@ -1,0 +1,41 @@
+body{
+ background: url(IMAGES/construction7.jpg); 
+ backdrop-filter:blur(10px);
+ background-size: 100%;
+ opacity: 50;
+ padding: 100px 100px 100px 100px;
+ 
+}
+h2{
+    text-align: center;
+    color: rgb(238, 237, 244);
+}
+p{
+    text-align: center;
+    color: yellow;
+    font-family:'Times New Roman';
+    font-size: x-large;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    border-color: rgb(19, 19, 44);
+    border-style:solid;
+    border-width: 5px;
+
+}
+a{
+    color: rgb(227, 234, 237);
+}
+footer{
+    color: white;
+}
+hr{
+    color: black;
+}
+
+
+
+
+
